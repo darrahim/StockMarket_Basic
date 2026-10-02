@@ -18,4 +18,4 @@ Currently setting up the project environment and structure.
 ## Project Structure
 
 - `Main.ipynb` — main analysis and simulation notebook
-- `.venv/` — project-specific Python environment (not tracked by Git)
+- `.venv/` — project-specific Python environment 
